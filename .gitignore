@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / tooling
+.cursor/
+.idea/
+.vscode/
+
+# Áudios gerados pelo TTS
+outputs/
+*.wav
+
+# Pesos de modelo (baixados localmente)
+models/
+*.safetensors
+*.bin
+*.pt
+*.gguf
+
+# Segredos
+.env
+.env.local
+*.log

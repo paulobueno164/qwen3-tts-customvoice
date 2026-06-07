@@ -1,0 +1,5 @@
+# Qwen3-TTS CustomVoice (memescreamer/Qwen3-TTS-12Hz-0.6B-CustomVoice)
+qwen-tts>=0.1.1
+torch>=2.0.0
+soundfile>=0.12.0
+accelerate>=0.20.0
